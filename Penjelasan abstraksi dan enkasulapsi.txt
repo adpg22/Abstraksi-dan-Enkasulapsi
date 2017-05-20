@@ -1,0 +1,7 @@
+Perbedaan antara enkapsulasi dan abstarksi
+- pada method yang di abstrakan harus semua dipanggil dikelas turunannya
+- sedangkan enkapsulasi tidak
+- enkapsulasi hanya menampilkan apa yang kita butuhkan dan prosesnya tidak kita ketahui
+
+contoh penerapan enkapsulasi dalam dunia nyata:
+-jika kita membuat kartu atm di bank, kita hanya menginputkan identitas dan pinnya tidak kita beritahu kepada petugas
